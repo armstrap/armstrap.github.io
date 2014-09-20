@@ -2,7 +2,9 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/" rel="#page-top">
+      <img src="/images/logos/armstrap-logo.svg" height="40" />{{ site.title }}
+    </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -19,6 +21,8 @@
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+          <a class="page-link" href="http://docs.armstrap.org">Documentation</a>
+          <a class="page-link" href="http://community.armstrap.org">Community</a>
       </div>
     </nav>
 
