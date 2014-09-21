@@ -14,6 +14,19 @@
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
+          <li>
+            <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+              <span class="icon  icon--rss">
+                <svg viewBox="0 0 16 16">
+                  <circle id="circle" fill="#828282" cx="3.975" cy="11.988" r="1.538"/>
+                  <path fill="#828282" d="M2.438,8.109c1.442,0,2.797,0.563,3.815,1.587c1.021,1.024,1.582,2.389,1.582,3.841h2.222 c0-4.218-3.417-7.649-7.618-7.649V8.109z"/>
+                  <path fill="#828282" d="M2.442,4.172c5.137,0,9.317,4.202,9.317,9.368h2.221c0-6.39-5.176-11.589-11.538-11.589V4.172z"/>
+                </svg>
+              </span>
+
+              <span class="username">rss</span>
+            </a>
+          </li>
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
@@ -23,7 +36,7 @@
                 </svg>
               </span>
 
-              <span class="username">{{ site.github_username }}</span>
+              <span class="username">github</span>
             </a>
           </li>
           {% endif %}
@@ -38,7 +51,7 @@
                 </svg>
               </span>
 
-              <span class="username">{{ site.twitter_username }}</span>
+              <span class="username">twitter</span>
             </a>
           </li>
           {% endif %}

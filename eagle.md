@@ -37,13 +37,22 @@ ARMstrap Eagle comes in three variations:
 * 192KB RAM
 * 2MB SPI flash
 
-Price: $69.99 USD
-Company: VOV Technology
-Shipping From: Austin, Texas USA
-Method of Payment: PayPal
-Ships In: 1-3 Business Days
+Price:
+: $69.99 USD
 
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+Company:
+: VOV Technology
+
+Ships From:
+: Austin, Texas USA
+
+Method of Payment:
+: PayPal
+
+Ships In:
+: 1-3 Business Days
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="padding-bottom:25px">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="HM3E6DWVQFBXU">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -58,13 +67,22 @@ Ships In: 1-3 Business Days
 * 192KB RAM
 * 4MB SPI flash
 
-Price: $79.99 USD
-Company: VOV Technology
-Shipping From: Austin, Texas USA
-Method of Payment: PayPal
-Ships In: 1-3 Business Days
+Price
+: $79.99 USD
 
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+Company:
+: VOV Technology
+
+Ships From:
+: Austin, Texas USA
+
+Method of Payment:
+: PayPal
+
+Ships In:
+: 1-3 Business Days
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="padding-bottom:25px">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="KPNFWQ59JUFZ2">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -79,13 +97,22 @@ Ships In: 1-3 Business Days
 * 256KB RAM
 * 8MB SPI flash
 
-Price: $89.99 USD
-Company: VOV Technology
-Shipping From: Austin, Texas USA
-Method of Payment: PayPal
-Ships In: 1-3 Business Days
+Price
+: $89.99 USD
 
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+Company:
+: VOV Technology
+
+Ships From:
+: Austin, Texas USA
+
+Method of Payment:
+: PayPal
+
+Ships In:
+: 1-3 Business Days
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="padding-bottom:25px">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="4ASJQXA39DH4G">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -103,6 +130,7 @@ Ships In: 1-3 Business Days
 
 ##Documents:
 
+* [Hardware Overview](http://docs.armstrap.org/en/latest/hardware-overview.html#armstrap-eagle)
 * [Schematic (PDF)][4]
 * [Board Layout (PNG)][5]
 * [Eagle Files (ZIP)][6]
