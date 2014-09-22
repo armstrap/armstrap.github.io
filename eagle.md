@@ -67,7 +67,7 @@ Ships In:
 * 192KB RAM
 * 4MB SPI flash
 
-Price
+Price:
 : $79.99 USD
 
 Company:
@@ -97,7 +97,7 @@ Ships In:
 * 256KB RAM
 * 8MB SPI flash
 
-Price
+Price:
 : $89.99 USD
 
 Company:

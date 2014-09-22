@@ -2,8 +2,8 @@
 title: ARMstrap
 email: your-email@domain.com
 description: ARMing the Next-Generation Engineer
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://armstrap.org" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://armstrap.org"
 twitter_username: armstrap
 github_username:  armstrap
 
