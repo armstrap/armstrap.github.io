@@ -15,4 +15,6 @@ Our Goals:
 
 I’m Charles, the founder of ARMstrap.org and a Senior Engineer at a billion dollar test and measurement company in Austin Texas, USA.  Please use this Contact form if you’d like to reach me with inquiries about the site.
 
+For inquiries, contact: ![Contact Image](/images/contact.png)
+
 [1]: /eagle

@@ -6,7 +6,7 @@ What [experts predicted][1] has finally happened.  People are using the [BeagleB
 
 There's just one problem.  These tiny all-in-one mini computers were never designed to be deployed in an end-product.
 
-![BeagleBone Black Assembly](/images/posts/2014/03/BeagleBone-Black-Assembly.png)
+![BeagleBone Black Assembly](/images/posts/2014/03/beagleBone-black-assembly.png)
 
 [Companies that sell][4] the BeagleBone Black are now reporting huge backlogs totaling [14,000 units][5].  It's really hard to get a hold of these boards and according to Gerald Coley, the designer of the BeagleBone Black and systems engineer at Texas Instrument (the company sponsoring the BeagleBone Black), the problem is not going away anytime soon.
 
