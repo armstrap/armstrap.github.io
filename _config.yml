@@ -39,4 +39,12 @@ disqus_show_comment_count: true
 markdown: kramdown
 
 
+#
+# Jekyll Plugins (Compatible with Github Pages)
+#
+gems:
+ - jekyll-mentions
+ - jemoji
+ - jekyll-redirect-from
+ - jekyll-sitemap
 
