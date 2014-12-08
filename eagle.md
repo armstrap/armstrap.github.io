@@ -60,8 +60,8 @@ variations:
 |                    | ARMstrap Eagle 512  | ARMstrap Eagle 1024 | ARMstrap Eagle 2048 |
 |--------------------|:-------------------:|:-------------------:|:-------------------:|
 | **Microcontroller**| [STM32F407VET6][1]  | [STM32F417VGT6][2]  | [STM32F427VIT6][3]  |
-| **RAM**            | 192KB               | 192KB               | 256KB               |
 | **ARM Flash**      | 512KB               | 1024KB              | 2048KB              |
+| **RAM**            | 192KB               | 192KB               | 256KB               |
 | **SPI Flash**      | 2MB                 | 4MB                 | 8MB                 |
 | **Price**          | 69.99 USD           | 79.99 USD           | 89.99 USD           |
 
