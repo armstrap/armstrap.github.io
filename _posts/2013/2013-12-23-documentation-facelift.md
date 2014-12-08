@@ -3,7 +3,7 @@ layout: post
 title:  "Documentation Facelift"
 ---
 
-![Guy in Subway Reading](/img/posts/2013/12/jens-schott-knudsen-flickr.jpg)
+![Guy in Subway Reading](/img/posts/2013/12/jens-schott-knudsen-flickr.jpg){: .centered .img-responsive}
 
 I think that for any open-hardware community to thrive, that community has to have insanely-great documentation.  Great documentation is not just in the form of web pages on a screen, but also PDF and ePub documentation that you can take on-the-go.  Documentation teaches others how to use your product and learning and discovery is a big part of ARMstrap.
 

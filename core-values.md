@@ -4,7 +4,7 @@ title: Core Values
 permalink: /core-values/
 ---
 
-![Community](/img/pages/online-community.jpg){: .centered}
+![Community](/img/pages/online-community.jpg){: .centered .img-responsive}
 
 # Why does ARMstrap Exist?
 

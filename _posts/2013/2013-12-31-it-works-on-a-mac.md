@@ -3,7 +3,7 @@ layout: post
 title:  "It Works on a MAC"
 ---
 
-![ARMstrap on a MAc](/img/posts/2013/12/armstrap-mac-featured.jpg)
+![ARMstrap on a MAc](/img/posts/2013/12/armstrap-mac-featured.jpg){: .centered .img-responsive}
 
 Quarter by quarter, news outlets are reporting that [PC sales are either flat][1] or plummeting.  HP just announced [another layoff][2] in an on-going effort to restructure and reinvent themselves.  Dell went as far as to [convert themselves to a private company][3].  Since we are not in an economic depression, all of these articles hint at one fundamental fact–Mac sales are rising.
 
