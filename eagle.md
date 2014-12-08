@@ -29,7 +29,7 @@ features:
     - Breadboard friendly for quick prototyping
     - Flexible development options (develop with one version and deploy with another)
     - Schematics and board layout file are open source (via MIT License) allowing you to build and remix the board, either personally or commercially.
-    - No licensing fees to loose, no serial keys to manage, and no code-size limitations
+    - No licensing numbers to manage, no serial keys to loose, and no code-size limitations
 documents:
     - title: Hardware Overview
       url: http://docs.armstrap.org/en/latest/hardware-overview.html#armstrap-eagle
@@ -43,7 +43,6 @@ documents:
       url: https://github.com/armstrap/armstrap_eagle/archive/master.zip
     - title: Getting Started Documentation
       url: http://docs.armstrap.org
-
 variations: 
     - name: ARMstrap Eagle 512
       price: 69.99 USD
@@ -54,9 +53,7 @@ variations:
     - name: ARMstrap Eagle 2048
       price: 89.99 USD
       paypal_link: <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="padding-bottom:25px"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="4ASJQXA39DH4G"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>
-
 ---
-
 
 ### Choose from Three Variations
 
@@ -77,7 +74,6 @@ variations:
 * GPIO through-hole header soldering
 * A Microsoft Windows, Apple Mac or Ubuntu Linux computer for project development
 
-
 ### Purshasing Info
 * **Company Name:** VOV Technology
 * **Ships From:** Austin, Texas USA
@@ -87,5 +83,3 @@ variations:
 [1]: https://github.com/armstrap/armstrap_eagle/raw/master/docs/STM32F407xx%20Datasheet.pdf
 [2]: https://github.com/armstrap/armstrap_eagle/raw/master/docs/STM32F417xx%20Datasheet.pdf
 [3]: https://github.com/armstrap/armstrap_eagle/raw/master/docs/STM32F427xx%20Datasheet.pdf
-
-
