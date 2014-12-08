@@ -33,12 +33,14 @@ features:
 documents:
     - title: Hardware Overview
       url: http://docs.armstrap.org/en/latest/hardware-overview.html#armstrap-eagle
+    - title: Source Files (GitHub)
+      url: https://github.com/armstrap/armstrap_eagle/tree/master/1.0.0
     - title: Schematic (PDF)
-      url: http://armstrap-public.s3.amazonaws.com/armstrap_eagle/1.0.0/Schematic.pdf
+      url: https://github.com/armstrap/armstrap_eagle/raw/master/1.0.0/eagle/pdf/Schematic.pdf
     - title: Board Layout (PNG)
-      url: http://armstrap-public.s3.amazonaws.com/armstrap_eagle/1.0.0/BoardLayout.png
+      url: https://github.com/armstrap/armstrap_eagle/raw/master/1.0.0/eagle/png/BoardLayout.png
     - title: Eagle Files (ZIP)
-      url: http://armstrap-public.s3.amazonaws.com/armstrap_eagle/1.0.0/armstrap_eagle_1.0.0.zip
+      url: https://github.com/armstrap/armstrap_eagle/archive/master.zip
     - title: Getting Started Documentation
       url: http://docs.armstrap.org
 
@@ -60,7 +62,7 @@ variations:
 
 |                    | ARMstrap Eagle 512  | ARMstrap Eagle 1024 | ARMstrap Eagle 2048 |
 |--------------------|:-------------------:|:-------------------:|:-------------------:|
-| **Microcontroller**| [STM32F407VET6][2]  | [STM32F417VGT6][3]  | [STM32F427VIT6][4]  |
+| **Microcontroller**| [STM32F407VET6][1]  | [STM32F417VGT6][2]  | [STM32F427VIT6][3]  |
 | **RAM**            | 192KB               | 192KB               | 256KB               |
 | **ARM Flash**      | 512KB               | 1024KB              | 2048KB              |
 | **SPI Flash**      | 2MB                 | 4MB                 | 8MB                 |
@@ -82,9 +84,8 @@ variations:
 * **Ships In:** 1-3 Business Days
 * **Method of Payment:** PayPal
 
-[1]: http://www.blacksphere.co.nz/main/blackmagic
-[2]: http://www.st.com/web/en/resource/technical/document/datasheet/DM00037051.pdf
-[3]: http://www.st.com/web/en/resource/technical/document/datasheet/DM00035129.pdf
-[4]: http://www.st.com/web/en/resource/technical/document/datasheet/DM00071990.pdf
+[1]: https://github.com/armstrap/armstrap_eagle/raw/master/docs/STM32F407xx%20Datasheet.pdf
+[2]: https://github.com/armstrap/armstrap_eagle/raw/master/docs/STM32F417xx%20Datasheet.pdf
+[3]: https://github.com/armstrap/armstrap_eagle/raw/master/docs/STM32F427xx%20Datasheet.pdf
 
 
