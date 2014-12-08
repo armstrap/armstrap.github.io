@@ -3,7 +3,7 @@ layout: page
 title: Downloads
 permalink: /downloads/
 ---
-##ARMstrap Eclipse IDE
+## ARMstrap Eclipse IDE
 
 ARMstrap Eclipse IDE – 2014.03.05
 

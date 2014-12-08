@@ -18,7 +18,7 @@ features:
     - 512KB – 2048KB on-chip flash
     - 192KB – 256KB RAM
     - 2MB – 8MB SPI flash for easy data and configuration storage
-    - On-board JTAG controller for easy flashing and debugging (with no code-size limitations)
+    - On-board JTAG controller (based on the amazing open source <a href="http://www.blacksphere.co.nz/main/blackmagic" target="_blank">Black Magic Probe</a>) for easy flashing and debugging
     - 35 digital input/output pins
     - Ready-to-use realtime clock with backup battery
     - Debug over a standard USB cable
@@ -29,6 +29,7 @@ features:
     - Breadboard friendly for quick prototyping
     - Flexible development options (develop with one version and deploy with another)
     - Schematics and board layout file are open source (via MIT License) allowing you to build and remix the board, either personally or commercially.
+    - No licensing fees to loose, no serial keys to manage, and no code-size limitations
 documents:
     - title: Hardware Overview
       url: http://docs.armstrap.org/en/latest/hardware-overview.html#armstrap-eagle
@@ -59,7 +60,7 @@ variations:
 
 |                    | ARMstrap Eagle 512  | ARMstrap Eagle 1024 | ARMstrap Eagle 2048 |
 |--------------------|:-------------------:|:-------------------:|:-------------------:|
-| **Microcontroller**| [STM32F407VET6][1]  | [STM32F417VGT6][2]  | [STM32F427VIT6][3]  |
+| **Microcontroller**| [STM32F407VET6][2]  | [STM32F417VGT6][3]  | [STM32F427VIT6][4]  |
 | **RAM**            | 192KB               | 192KB               | 256KB               |
 | **ARM Flash**      | 512KB               | 1024KB              | 2048KB              |
 | **SPI Flash**      | 2MB                 | 4MB                 | 8MB                 |
@@ -81,9 +82,9 @@ variations:
 * **Ships In:** 1-3 Business Days
 * **Method of Payment:** PayPal
 
-
-[1]: http://www.st.com/web/en/resource/technical/document/datasheet/DM00037051.pdf
-[2]: http://www.st.com/web/en/resource/technical/document/datasheet/DM00035129.pdf
-[3]: http://www.st.com/web/en/resource/technical/document/datasheet/DM00071990.pdf
+[1]: http://www.blacksphere.co.nz/main/blackmagic
+[2]: http://www.st.com/web/en/resource/technical/document/datasheet/DM00037051.pdf
+[3]: http://www.st.com/web/en/resource/technical/document/datasheet/DM00035129.pdf
+[4]: http://www.st.com/web/en/resource/technical/document/datasheet/DM00071990.pdf
 
 
