@@ -3,7 +3,8 @@ layout: page
 title: Core Values
 permalink: /core-values/
 ---
-![Community](/images/pages/online-community.jpg)
+
+![Community](/img/pages/online-community.jpg){: .centered}
 
 # Why does ARMstrap Exist?
 

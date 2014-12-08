@@ -1,21 +1,11 @@
 <!DOCTYPE html>
 <html>
+	{% include html_head.html %}
 
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-        {% include comments.html %}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-    {% include google_analytics.html %}
-  </body>
+	<body>
+		{% include nav.html %}
+		{% include landing_banner.html %}
+		{% include landing_content.html %}
+		{% include footer.html %}
+	</body>
 </html>

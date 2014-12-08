@@ -2,9 +2,10 @@
 layout: post
 title:  "It Works on a MAC"
 ---
-Quarter by quarter, news outlets are reporting that [PC sales are either flat][1] or plummeting.  HP just announced [another layoff][2] in an on-going effort to restructure and reinvent themselves.  Dell went as far as to [convert themselves to a private company][3].  Since we are not in an economic depression, all of these articles hint at one fundamental fact–Mac sales are rising.
 
-![ARMstrap on a MAc](/images/posts/2013/12/armstrap-mac-featured.jpg)
+![ARMstrap on a MAc](/img/posts/2013/12/armstrap-mac-featured.jpg)
+
+Quarter by quarter, news outlets are reporting that [PC sales are either flat][1] or plummeting.  HP just announced [another layoff][2] in an on-going effort to restructure and reinvent themselves.  Dell went as far as to [convert themselves to a private company][3].  Since we are not in an economic depression, all of these articles hint at one fundamental fact–Mac sales are rising.
 
 When I look at the options embedded developers have on the Mac, the outcome is grim.  External JTAG devices require a proprietary driver to enumerate and those JTAG vendors only ship drivers for the PC.  That shiny new MacBook Pro can’t do any real-world embedded development without a lot of hackery.  It’s no wonder that products like the [BeagleBone Black][4] and the [Raspberry Pi][5] exist.  It’s easier to put an entire operating system on a chip than to create a new driver stack for a different ecosystem, [riddled with lawyers][6] and politics.  No drivers are required when your embedded board ships with an entire operating system on board.  But what happens to those developers who want to be close to the hardware?  These developers don’t want an operating system in the way of their time-critical projects.
 

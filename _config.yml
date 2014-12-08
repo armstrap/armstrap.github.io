@@ -3,22 +3,23 @@
 # Site settings
 #
 author: Charles Armstrap
-url: "http://armstrap.org"
+url: http://armstrap.org
 title: ARMstrap
+email: your-email@domain.com
 tagline: ARMing the Next-Generation Engineer
 baseurl: ""
-description: >
-  ARMstrap is a community of engineers and makers 
-  determined to help make ARM prototyping easy and fun.
-
+description: ARMstrap is a community of engineers and makers determined to help make ARM prototyping easy and fun.
 
 #
 # Social Media
 #
-twitter_username: armstrap
-github_username:  armstrap
-youtube_username: armstrap
-
+social:
+  - title: twitter
+    url: https://twitter.com/armstrap
+  - title: github
+    url: https://github.com/armstrap
+  - title: rss
+    url: /feed.xml
 
 #
 # Google Analytics
@@ -37,6 +38,7 @@ disqus_show_comment_count: true
 # Jekyll Settings
 #
 markdown: kramdown
+permalink: pretty
 
 
 #
@@ -48,3 +50,4 @@ gems:
  - jekyll-redirect-from
  - jekyll-sitemap
 
+ 

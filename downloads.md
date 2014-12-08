@@ -7,7 +7,7 @@ permalink: /downloads/
 
 ARMstrap Eclipse IDE – 2014.03.05
 
-![Eclipse Screenshot](/images/pages/eclipse-screenshot-300x202.png)
+![Eclipse Screenshot](/img/pages/eclipse-screenshot-300x202.png){: .centered}
 
 Download a pre-configured version of the popular Eclipse IDE.  The IDE allows you to write, compile, link, flash and debug your ARMstrap application.  Several examples are included, allowing you to easily learn and leverage existing code.
 

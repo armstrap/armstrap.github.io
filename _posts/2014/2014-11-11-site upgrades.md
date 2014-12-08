@@ -2,11 +2,13 @@
 layout:   post
 comments: true
 title:    "Fast and Furious Upgrades"
+img:      fast_and_furious_6.jpg
+category: Upgrades
 ---
 
 We've been busy upgrading...pretty much everything.
 
-![Fast and Furious Upgrades](/images/posts/2014/11/fast_and_furious_6.jpg)
+![Fast and Furious Upgrades](/img/posts/2014/11/fast_and_furious_6.jpg)
 
 The armstrap.org site is composed of two sections: a blog section and a community section.  Both sections have been upgraded and are now insanely fast and much more scalable.
 

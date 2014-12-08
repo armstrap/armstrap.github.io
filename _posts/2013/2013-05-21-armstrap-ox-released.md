@@ -2,7 +2,7 @@
 layout: post
 title:  "ARMstrap OX Released"
 ---
-![ARMstrap OX](/images/posts/2013/05/armstrap-ox-rectangle-penny.png)
+![ARMstrap OX](/img/posts/2013/05/armstrap-ox-rectangle-penny.png)
 
 **Compatible with Apple Mac OSX, Ubuntu Linux, and Microsoft Windows**
 
