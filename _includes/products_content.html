@@ -1,0 +1,23 @@
+<!-- Products Content -->
+<div class="content-post">
+    <div class="container">
+{% for product in site.products  %}
+		<div class="row">
+		    <div class="col-md-1"></div>
+		    <div class="col-md-10">
+<h1>Hi There</h1>
+		        <hr class="post-heading-spacer">
+		        <div class="clearfix"></div>
+{% if forloop.first %}<h2>Products</h2>{% endif %}
+		        <h2>
+		            <a class="post-heading" href="{{ product.url | prepend: site.baseurl }}">{{ product.title }}</a>
+		            <span class="post-date">{{ product.date | date: "%b %-d, %Y" }}</span>
+		        </h2>
+		        <span class="post-content">{{ product.content |truncatehtml | truncatewords: 60 }}</span>
+		    </div>
+		    <div class="col-md-1"></div>
+		</div>
+{% endfor %}
+   </div>
+</div>
+

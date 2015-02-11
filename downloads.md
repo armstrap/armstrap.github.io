@@ -3,13 +3,13 @@ layout: page
 title: Downloads
 permalink: /downloads/
 ---
-## ARMstrap Eclipse IDE
+## Armstrap Eclipse IDE
 
-ARMstrap Eclipse IDE – 2014.03.05
+Armstrap Eclipse IDE – 2014.03.05
 
 ![Eclipse Screenshot](/img/pages/eclipse-screenshot-300x202.png){: .centered .img-responsive}
 
-Download a pre-configured version of the popular Eclipse IDE.  The IDE allows you to write, compile, link, flash and debug your ARMstrap application.  Several examples are included, allowing you to easily learn and leverage existing code.
+Download a pre-configured version of the popular Eclipse IDE.  The IDE allows you to write, compile, link, flash and debug your Armstrap application.  Several examples are included, allowing you to easily learn and leverage existing code.
 
 All downloads are provided under the terms and conditions of the [Eclipse Foundation Software User Agreement][1] unless otherwise specified.
 
@@ -17,12 +17,12 @@ All downloads are provided under the terms and conditions of the [Eclipse Founda
 * [Mac OS X (zip file) – 280MB][3]
 * [Linux 64-bit (tar.gz file) – 268MB][4]
 
-The ARMstrap Eclipse IDE includes:
+The Armstrap Eclipse IDE includes:
 
 * Eclipse CDT Kepler SR1 64-bit
 * GNU Tools for ARM Embedded Processors 4.8 2013 q4 2013.12.04
-* ARMstrap Examples
-* ARMstrap Build and Debug Specifications
+* Armstrap Examples
+* Armstrap Build and Debug Specifications
 
 Requirements:
 

@@ -7,7 +7,7 @@
 		    <div class="col-md-10">
 		        <hr class="post-heading-spacer">
 		        <div class="clearfix"></div>
-{% if forloop.first %}<h2>Recent Posts</h2>{% endif %}
+{% if forloop.first %}<h1>Recent Posts</h1>{% endif %}
 		        <h2>
 		            <a class="post-heading" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 		            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>

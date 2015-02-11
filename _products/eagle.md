@@ -1,7 +1,6 @@
 ---
 layout: product
 title: Armstrap Eagle
-permalink: /eagle/
 images: 
     - caption: 0
       url: /img/products/eagle/armstrap-eagle-main-750x500.jpg
@@ -64,10 +63,9 @@ variations:
 | **RAM**            | 192KB               | 192KB               | 256KB               |
 | **SPI Flash**      | 2MB                 | 4MB                 | 8MB                 |
 | **Price**          | 69.99 USD           | 79.99 USD           | 89.99 USD           |
-{: .table .table-striped }
+
 
 ### Requires (sold separately)
-
 * Mini-USB Cable for flashing and debugging the onboard ARM chip
 * CR1216 battery for realtime clock backup
 * FTDI TTL Serial Cable for serial console access (TTL-232R-3V3)
@@ -75,7 +73,6 @@ variations:
 * A Microsoft Windows, Apple Mac or Ubuntu Linux computer for project development
 
 ### Purshasing Info
-
 * **Company Name:** VOV Technology
 * **Ships From:** Austin, Texas USA
 * **Ships In:** 1-3 Business Days
