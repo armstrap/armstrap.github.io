@@ -12,7 +12,7 @@ images:
     - caption: 3
       url: /img/products/eagle/armstrap-eagle-connector-overview-750x500.jpg
 description: >
-      The Armstrap Eagle is an ARM development board based on the 168 MHz Cortex-M4 ARM chip. Unlike other microcontrollers, the Armstrap Eagle has an on-board JTAG controller.  By integrating the JTAG controller, Linux, Mac and Windows users can easily flash and debug their ARM project without the need of an external JTAG adapter.  The board enumerates on your host computer as a serial device, alleviating the user from installing a costly proprietary driver.  The board uses 0805-sized SMT components, making it easy for anyone to build and remix the board.
+      The Armstrap Eagle is an ARM development board based on the 168 MHz Cortex-M4 ARM chip. Unlike other microcontrollers, the Armstrap Eagle has an on-board JTAG controller.  By integrating the JTAG controller, Linux, Mac and Windows users can easily flash and debug their ARM project without the need of an external JTAG adapter.  The board enumerates on your host computer as a serial device, alleviating the user from installing a costly proprietary driver.  The board uses 0805-sized SMT components, making it easy for anyone to build and remix the board.  <h3>Order now to get a SXSW discount!</h3>
 features:
     - 168MHz STM32F4 Cortex-M4 Microcontroller
     - 512KB – 2048KB on-chip flash
@@ -45,13 +45,13 @@ documents:
       url: http://docs.armstrap.org
 variations: 
     - name: Armstrap Eagle 512
-      price: 69.99 USD
+      price: <strike>69.99 USD</strike> 49.99 USD
       paypal_link: <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="padding-bottom:25px"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="HM3E6DWVQFBXU"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>
     - name: Armstrap Eagle 1024
-      price: 79.99 USD
+      price: <strike>79.99 USD</strike> 59.99 USD
       paypal_link: <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="padding-bottom:25px"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="KPNFWQ59JUFZ2"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></form> 
     - name: Armstrap Eagle 2048
-      price: 89.99 USD
+      price: <strike>89.99 USD</strike> 69.99 USD
       paypal_link: <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="padding-bottom:25px"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="4ASJQXA39DH4G"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>
 ---
 
