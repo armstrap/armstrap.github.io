@@ -74,7 +74,7 @@ variations:
 * GPIO through-hole header soldering
 * A Microsoft Windows, Apple Mac or Ubuntu Linux computer for project development
 
-### Purshasing Info
+### Purchasing Info
 
 * **Company Name:** VOV Technology
 * **Ships From:** Austin, Texas USA
