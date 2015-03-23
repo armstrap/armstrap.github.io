@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Armstrap is a community of engineers and makers determined to help make ARM prototyping easy and fun. We focus on ease-of-use, helping real-world engineers bootstrap interactive objects or environments.
 
-[armstrap eagle][1] is an open-source electronics prototyping platform centered on the powerful STM32F4 ARM processor. The boards can be built by hand or purchased pre-assembled; the software can be downloaded for free. The hardware reference designs (CAD files) are available under an MIT license, you are free to adapt them to your needs.
+[Armstrap Eagle][1] is an open-source electronics prototyping platform centered on the powerful STM32F4 ARM processor. The boards can be built by hand or purchased pre-assembled; the software can be downloaded for free. The hardware reference designs (CAD files) are available under an MIT license, you are free to adapt them to your needs.
 
 Our Goals:
 
