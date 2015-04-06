@@ -14,7 +14,7 @@ images:
 description: >
       The Armstrap Eagle is an ARM development board based on the 168 MHz Cortex-M4 ARM chip. Unlike other microcontrollers, the Armstrap Eagle has an on-board JTAG controller.  By integrating the JTAG controller, Linux, Mac and Windows users can easily flash and debug their ARM project without the need of an external JTAG adapter.  The board enumerates on your host computer as a serial device, alleviating the user from installing a costly proprietary driver.  The board uses 0805-sized SMT components, making it easy for anyone to build and remix the board.  <h3>Special Promotion - Save $10 off the regular price.</h3>
 features:
-    - 168MHz-180MHz STM32F4 Cortex-M4 Microcontroller
+    - 168MHz – 180MHz STM32F4 Cortex-M4 Microcontroller
     - 512KB – 2048KB on-chip flash
     - 192KB – 256KB RAM
     - 2MB – 8MB SPI flash for easy data and configuration storage

@@ -2,7 +2,6 @@
 layout:   post
 comments: true
 title:    "Fast and Furious Upgrades"
-img:      fast_and_furious_6.jpg
 category: Upgrades
 ---
 
