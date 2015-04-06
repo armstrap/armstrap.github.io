@@ -2,7 +2,7 @@
 layout:   post
 comments: true
 title:    "Armstrap Eagle Pinout Cards Arrived"
-category: vistaprint pinout
+category: pinout
 ---
 
 ![ARMstrap Eagle Pinout Card](/img/posts/2015/04/armstrap-eagle-pinout-card-floor.JPG){: .centered .img-responsive}
