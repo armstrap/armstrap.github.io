@@ -5,7 +5,7 @@ title:    "Armstrap Eagle Pinout Cards Arrived"
 category: pinout
 ---
 
-![ARMstrap Eagle Pinout Card](/img/posts/2015/04/armstrap-eagle-pinout-card-floor.JPG){: .centered .img-responsive}
+![Armstrap Eagle Pinout Card](/img/posts/2015/04/armstrap-eagle-pinout-card-floor.JPG){: .centered .img-responsive}
 
 One user gave us feedback that we should consider including an [Armstrap Eagle][1] pinout diagram card in the shipment box.  You asked, we delivered.  Effective immediately (until supplies last), all Armstrap Eagle shipments will include a small card that outlines the board's pinout.  It's just another way we are improving ourselves.
 
@@ -15,7 +15,7 @@ If you have feedback, let us know.  We have a [community section][3] where maker
 
 Thumbs up to [Vistaprint][4] for the great quality and speedy turnaround time.
 
-![ARMstrap Eagle Pinout Card](/img/posts/2015/04/armstrap-eagle-pintout-card.JPG){: .centered .img-responsive}
+![Armstrap Eagle Pinout Card](/img/posts/2015/04/armstrap-eagle-pintout-card.JPG){: .centered .img-responsive}
 
 [1]: http://armstrap.org/eagle
 [2]: http://docs.armstrap.org/en/latest/hardware-overview.html#armstrap-eagle
