@@ -2,7 +2,6 @@
 layout:   post
 comments: true
 title:    "pyVirtualBench - Controlling Five Instruments from a Single Python Application"
-category: pyvirtualbench python
 ---
 
 ![Techshop VirtualBench](/img/posts/2015/07/ni-virtualbench-python.jpg){: .centered .img-responsive}
