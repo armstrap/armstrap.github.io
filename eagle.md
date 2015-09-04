@@ -83,7 +83,7 @@ variations:
 
 * **Company Name:** VOV Technology
 * **Ships From:** Austin, Texas USA
-* **Ships In:** 1-3 Business Days [UPDATE 6/30/2015: VOV IS CLOSED and will ship orders July 15th, 2015 (when reopening)]
+* **Ships In:** 1-3 Business Days
 * **Method of Payment:** PayPal
 
 [1]: https://github.com/armstrap/armstrap_eagle/raw/master/docs/STM32F407xx%20Datasheet.pdf
